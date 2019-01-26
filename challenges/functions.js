@@ -33,7 +33,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 // ==== Closures ==== 
 
 // Explain in your own words why `nestedfunction()` can access the variable `internal`.
-
+//nestedFunction() can access the variable internal because the inner nested function has access to the outer scope functions variables and global variables. 
 // Explanation: 
 
 
